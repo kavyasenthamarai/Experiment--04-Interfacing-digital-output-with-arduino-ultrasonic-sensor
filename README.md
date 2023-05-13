@@ -110,7 +110,9 @@ void loop()
 BEFORE SIMULATION:
 
 ![image](https://github.com/kavyasenthamarai/Experiment--04-Interfacing-digital-output-with-arduino-ultrasonic-sensor/assets/118668727/76bcb6ba-65a2-404e-a078-463ef9e6eb8b)
+
 AFTER SIMULATION:
+
 ![image](https://github.com/kavyasenthamarai/Experiment--04-Interfacing-digital-output-with-arduino-ultrasonic-sensor/assets/118668727/ac6fecf4-1d81-475c-b92d-cddd1eab6f67)
 
 ### RESULTS
